@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "yuvraj_bot",
     "password": "",
     "type": "offline"
   },
@@ -32,9 +32,9 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
-      ]
+        "Subscribe to STORMxYUVRAJ999 ",
+        "server main owner is AMANGAMER2125"
+        "Welcome to GEM SMP"
     },
     "chat-log": true,
     "auto-reconnect": true,
